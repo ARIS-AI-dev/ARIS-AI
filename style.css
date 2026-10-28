@@ -55,3 +55,5 @@ footer a:hover{color:var(--gold)}
   header,footer,.sprache,.springen{display:none}
   p,li,td,th,h2,h3,address{color:#000}
 }
+.knopf{display:inline-block;font-weight:600;color:var(--schwarz);background:var(--gold);border-radius:8px;padding:10px 22px;text-decoration:none}
+.knopf:hover{background:var(--gold-hell)}
